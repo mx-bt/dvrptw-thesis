@@ -1,0 +1,33 @@
+[
+    {
+        "dataset": "2828",
+        "exp_id": "solomon.0.0",
+        "std_op_cost": 1,
+        "c_early": 2,
+        "c_late": 3,
+        "c_overtime": 2,
+        "c_outsource": 50,
+        "c_add_veh": 400,
+        "log_shape": 0.6,
+        "log_scale": 0.1,
+        "t_s": 3600,
+        "t_D": 99,
+        "policy": "lambda TD-DVRPTW",
+        "arrival_sum_init": 17822,
+        "arrival_sum_vrptw": 0,
+        "arrival_sum_dvrptw": 21547,
+        "obj_VRPTW_heur": 8843,
+        "obj_DRPTW_heur": 138367,
+        "obj_operating_cost": 17089,
+        "obj_early_service": 4715,
+        "obj_late_service": 27677,
+        "obj_overtime": 100077,
+        "obj_customer_drop": 0,
+        "obj_add_vehicle": 0,
+        "count_overtimes": 2290,
+        "count_early_service": 15778,
+        "count_late_service": 19440,
+        "count_outsource_customer": 0,
+        "count_additional_vehicles": 0
+    }
+]
